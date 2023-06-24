@@ -1,0 +1,1 @@
+{".png": "Images", ".jpeg": "Images", ".jpg": "Images", ".pdf": "PDFs", ".docx": "Microsoft Documents", ".xlsx": "Microsoft Documents", ".mp3": "Audios", ".mp4": "Videos"}
